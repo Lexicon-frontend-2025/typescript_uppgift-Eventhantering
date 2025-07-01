@@ -4,7 +4,7 @@
 
 ---
 
-### 1. Enkel Knapp
+### 1. Enkel knapp
 
 **Uppgift:**  
 Skapa en HTML-knapp:
@@ -35,7 +35,7 @@ button.addEventListener("click", () => {
 
 ---
 
-### 2. Växla Klass
+### 2. Växla klass
 
 **HTML:**
 
@@ -80,7 +80,7 @@ toggleBtn.addEventListener("click", () => {
 
 ---
 
-### 3. Textfält med Uppdatering
+### 3. Textfält med uppdatering
 
 **HTML:**
 
@@ -111,7 +111,7 @@ input.addEventListener("input", (event) => {
 
 ---
 
-### 4. Dynamisk Lista med Knapp
+### 4. Dynamisk lista med knapp
 
 **Förutsättning:**
 Du har en array av studentobjekt, t.ex.:
